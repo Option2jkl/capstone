@@ -1,0 +1,32 @@
+header {
+	color: white;
+	float: left;
+	background-color: red;
+	padding: 6px 40px;
+	margin: 5px 40px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 5px 1px black;
+	text-align: center;
+	font: 20px/20px "Arial";
+}
+
+.titleBar {
+	color: #66ff33;
+	background-color: black;
+	padding: 6px 40px;
+	margin: 5px 240px;
+	border-radius: 50px;
+	text-align: center;
+}
+
+body {
+	background-image: url("http://godlywoodstudio.org/wp-content/uploads/2014/11/Grey-website-background.png");
+}
+
+.my-block {
+	text-align: center;
+	margin: 10% 42%;
+	padding: 1px 40px;
+	background-color: lightgrey;
+	border-radius: 50px;
+}
